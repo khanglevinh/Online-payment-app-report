@@ -4,7 +4,7 @@
 
 This project analyzes transaction data from an online payment app to identify usage patterns, transaction trends, and customer retention. It aims to provide insights into customer behavior and optimize app performance for better user satisfaction and strategic decision-making. 
 
-**Insights:**  
+# Insights:  
 
 **1. Transaction Growth and Seasonal Trends:** Transactions in 2018 surged significantly compared to 2017, peaking towards the end of each year during festive seasons like Christmas and Tet Holiday.  
 
