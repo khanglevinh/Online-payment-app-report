@@ -1,7 +1,7 @@
 # Online-payment-app-report
-Online payment app analysis
 
-Project Description: Online Payment App Analysis
+**Project Description: Online Payment App Analysis**  
+
 This project analyzes transaction data from an online payment app to identify usage patterns, transaction trends, and customer retention. It aims to provide insights into customer behavior and optimize app performance for better user satisfaction and strategic decision-making. 
 
 **Insights:**  
